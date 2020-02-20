@@ -1,3 +1,6 @@
-hellokafjk89
-fajkh3
+def func(a,b):
+    return(a+b)
 
+x=input()
+y=input()
+print(func(x,y))
