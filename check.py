@@ -3,4 +3,4 @@ def func(a,b):
 
 x=input()
 y=input()
-print(func(x,y))
+print(func(x,y))git
